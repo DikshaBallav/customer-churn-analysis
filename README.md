@@ -61,7 +61,7 @@ METHODOLOGY :
 
 3. Model Building
 
-The following machine learning models were trained and evaluated:
+ The following machine learning models were trained and evaluated:
 
 * Random Forest Classifier
 
