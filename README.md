@@ -92,3 +92,7 @@ RESULTS :
 * Ensemble and distance-based models showed competitive results
 
 * The evaluation highlights how model choice impacts churn prediction accuracy
+  
+## 🚀 Live Demo
+
+👉 **[Customer Churn Analysis  — Live Demo](https://customer-churn-analysis-p8es2qbquxmrnjqtgq6lut.streamlit.app/)**
